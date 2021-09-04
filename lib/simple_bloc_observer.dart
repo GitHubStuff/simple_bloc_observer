@@ -1,6 +1,6 @@
 library simple_bloc_observer;
 
-// Copyright 2021 FHCP. All rights reserved.
+// Copyright 2021 LTMM. All rights reserved.
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
